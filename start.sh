@@ -4,4 +4,5 @@ mv tmp/.git .
 rm -rf tmp
 git reset --hard
 mkdir bin
+python3 clever.py &
 python3 -m userbot
